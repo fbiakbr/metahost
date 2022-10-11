@@ -3,6 +3,7 @@
 }
 body {
   background-color: #171420;
+  color: #fff;
 }
 .navbar-brand {
   color: #fff;
@@ -45,4 +46,25 @@ span .navbar-toggler-icon {
 }
 .navbar-toggler-icon:focus {
   color: #fff;
+}
+.header span {
+  color: #2A4AF4;
+  font-size: 20px;
+  font-weight: 500;
+}
+.header h1 {
+  font-size: 72px;
+  font-weight: bold;
+}
+.header p {
+  font-size: 16px;
+  font-weight: 400;
+}
+.header .btn {
+  font-size: 20px;
+  font-weight: bold;
+}
+.header h2 {
+  font-size: 64px;
+  font-weight: 500;
 }
