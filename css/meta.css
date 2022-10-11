@@ -1,0 +1,48 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+body {
+  background-color: #171420;
+}
+.navbar-brand {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.navbar-brand:hover {
+  color: #fff;
+}
+.navbar-brand:focus {
+  color: #fff;
+}
+.nav-link {
+  color: #fff;
+  margin-left: 20px;
+  margin-right: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.nav-link:hover {
+  color: #fff;
+}
+.nav-link:focus {
+  color: #fff;
+}
+.navbar-toggler {
+  color: #fff;
+}
+.navbar-toggler:hover {
+  color: #fff;
+}
+.navbar-toggler:focus {
+  color: #fff;
+}
+span .navbar-toggler-icon {
+  color: #fff;
+}
+.navbar-toggler-icon:hover {
+  color: #fff;
+}
+.navbar-toggler-icon:focus {
+  color: #fff;
+}
